@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Norbert Monti, and I am currently a PhD candidate in Economics at Sciences Po (Paris), under the supervision of Roberto Galbiati.
 
-My primary research interest is understanding whether redistribution can change environmental policy support. I am currently working on a project to understand how place-based policies in coal communities in Appalachia (United States) change perceptions' of trade-off between jobs and the environment.
+My primary research interest is understanding whether redistribution can change environmental policy support. I am currently working on a project to understand how place-based policies in coal communities in Appalachia (United States) change perceptions of trade-off between jobs and the environment.
 
 My other research interests include the design and evaluation of environmental policy, as well as studying policies for the transition to a circular economy.
 
