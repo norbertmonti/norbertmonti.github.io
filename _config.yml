@@ -23,7 +23,7 @@ repository               : "norbertmonti/norbertmonti.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD candidate at Sciences Po, Paris."
   location         : "Paris, France"
