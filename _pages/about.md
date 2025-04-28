@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Norbert Monti"
+title: #title
 author_profile: true
 redirect_from: 
   - /about/
