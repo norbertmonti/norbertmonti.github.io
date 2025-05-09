@@ -13,4 +13,4 @@ My primary research interest is understanding whether redistribution can change 
 
 My other research interests include the design and evaluation of environmental policies, including policies for the transition to a circular economy, as well as political economics and wealth inequality.
 
-Previously, I worked as a Young Associate and later as Research Associate at the Organisation for Economic Co-operation and Development (OECD), where I contributed to a number of projects, such as the development of the national circular economy strategies of Hungary and Slovakia, chapters in the Global Plastics Outlook (2022), and review papers on green fiscal stimulus, among others.
+Previously, I worked as a [Young Associate](https://www.oecd.org/en/about/careers/young-associates.html) and later as Research Associate at the Organisation for Economic Co-operation and Development (OECD), where I contributed to a number of projects, such as the development of the national circular economy strategies of Hungary and Slovakia, chapters in the Global Plastics Outlook (2022), and review papers on green fiscal stimulus, among others.
